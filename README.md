@@ -3,6 +3,9 @@
 - Member of 2022 Codesquad Masters Course Backend Class
 - Backend Developer
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmybloom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **mybloom/mybloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
