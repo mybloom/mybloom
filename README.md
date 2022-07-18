@@ -1,7 +1,7 @@
 ### I'm Bae Jungeun 👋
 
 - Member of 2022 Codesquad Masters Course Backend Class
-- Back-end Developer
+- Backend Developer
 
 <!--
 **mybloom/mybloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
