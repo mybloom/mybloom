@@ -1,6 +1,5 @@
 ### I'm Bae Jeongeun 👋
 
-- Member of 2022 Codesquad Masters Course Backend Class
 - Backend Developer
 
 <!--
